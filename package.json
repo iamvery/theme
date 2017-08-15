@@ -1,5 +1,5 @@
 {
-  "name": "@shoutem/theme",
+  "name": "native-base-shoutem-theme",
   "version": "0.10.0",
   "main": "index.js",
   "description": "Style your components in one place.",
